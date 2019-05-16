@@ -10,8 +10,8 @@
     "files": [
         "README.md",
         "neopixel.ts",
-        "_locales/de/neopixel-strings.json",
-        "_locales/de/neopixel-jsdoc-strings.json"
+        "_locales/de/neopixel-calliope-strings.json",
+        "_locales/de/neopixel-calliope-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
