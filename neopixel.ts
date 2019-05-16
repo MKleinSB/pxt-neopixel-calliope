@@ -1,5 +1,7 @@
 /**
 * Well known colors for a NeoPixel strip
+* changed to work ith Calliope Mini V0 Core by M.Klein 16.5.19
+* fork of https://github.com/microsoft/pxt-neopixel
 */
 enum NeoPixelColors {
     //% block=red

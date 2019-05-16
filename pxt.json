@@ -16,7 +16,7 @@
     "testFiles": [
         "test.ts"
     ],
-       "yotta": {
+    "yotta": {
         "config": {
             "microbit-dal": {
                 "bluetooth": {
