@@ -1,18 +1,29 @@
 {
     "name": "pxt-neopixel-calliope",
-    "version": "0.0.0",
-    "description": "",
+    "version": "0.0.1",
+    "description": "AdaFruit NeoPixel driver",
+    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "radio": "*",
         "ws2812b": "github:microsoft/pxt-ws2812b#v0.0.4"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "neopixel.ts",
+        "_locales/de/neopixel-strings.json",
+        "_locales/de/neopixel-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
-    "public": false
+       "yotta": {
+        "config": {
+            "microbit-dal": {
+                "bluetooth": {
+                    "enabled": 0
+                }
+            }
+        }
+    },
+    "public": true
 }
