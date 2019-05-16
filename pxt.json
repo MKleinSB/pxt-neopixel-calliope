@@ -1,6 +1,6 @@
 {
-    "name": "pxt-neopixel-calliope",
-    "version": "0.0.3",
+    "name": "neopixel-calliope",
+    "version": "0.0.4",
     "description": "AdaFruit NeoPixel driver",
     "license": "MIT",
     "dependencies": {
