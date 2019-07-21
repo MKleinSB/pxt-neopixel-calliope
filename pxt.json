@@ -1,6 +1,6 @@
 {
     "name": "neopixel-calliope",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "AdaFruit NeoPixel driver",
     "license": "MIT",
     "dependencies": {
