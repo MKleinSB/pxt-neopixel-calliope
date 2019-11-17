@@ -15,7 +15,7 @@
     "neopixel.Strip.showBarGraph": "Zeigt den angegebenen Wert in Bezug auf das gegebene Maximum als Balkendiagramm auf allen Neopixeln an.",
     "neopixel.Strip.showRainbow": "Zeigt ein Regenbogenmuster auf allen NeoPixeln an.",
     "neopixel.Strip.show": "Sendet alle Änderungen an die NeoPixel.",
-    "neopixel.Strip.hsl": "Erstellt eine HSL-Farbe",
+    "neopixel.hsl": "Erstellt eine HSL-Farbe",
     "neopixel.rgb": "Erstellt eine RGB-Farbe",
     "neopixel.colors": "bekannte RGB-Farben"
 }
